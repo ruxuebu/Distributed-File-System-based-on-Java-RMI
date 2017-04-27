@@ -1,9 +1,7 @@
 RMI Based Simple Distributed File System
 ===============================
 
-Implementation of a simple distribute file system than mimics [Google File System](http://en.wikipedia.org/wiki/Google_File_System) based on Java RMI.
-
-Spring 2014 Distributed Systems course project.
+Implementation of a simple distribute file system that mimics [Google File System](http://en.wikipedia.org/wiki/Google_File_System) based on Java RMI.
 
 Problem Statement
 ----------------------------
